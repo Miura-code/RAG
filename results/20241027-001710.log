@@ -1,0 +1,4 @@
+10/27 12:17:10AM rag_main.py:21 [INFO] --> Start Dataset setting.
+10/27 12:17:14AM rag_main.py:37 [INFO] --> End Dataset setting. Save dataset to 'medical_data.txt'.
+10/27 12:17:14AM rag_main.py:38 [INFO] --> Start LLM Model setting.
+10/27 12:20:05AM rag_main.py:44 [INFO] --> Vector Store completed
